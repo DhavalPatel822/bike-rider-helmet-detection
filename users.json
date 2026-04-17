@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "password": "admin123",
+    "email": "admin@example.com"
+  },
+  "samir": {
+    "password": "Royal@123",
+    "email": "samir.vithlani83955@gmail.com"
+  },
+  "dhavalpatel": {
+    "password": "denu@1805",
+    "email": "dhavalpatel08220@gamil.com"
+  },
+  "dhaval": {
+    "password": "denu@123",
+    "email": "dhavalptl168@gmail.com"
+  }
+}
